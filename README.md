@@ -1,4 +1,4 @@
-# spaceflight_news
+# spacebuzz
 
 A new Flutter project.
 
